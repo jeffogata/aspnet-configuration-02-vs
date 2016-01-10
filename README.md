@@ -1,6 +1,6 @@
 # aspnet-configuration-02-vs
 
-An example of using multiple configuration sources in ASP.NET 5, accompanying the [ASP.NET 5 Configuration – Using the Built-In Providers](https://jeffogata.wordpress.com/2015/12/26/asp-net-5-configuration-using-the-built-in-providers/) blog post.
+An example of using multiple configuration sources in ASP.NET 5, accompanying the [ASP.NET 5 Configuration – Using the Built-In Providers](https://jeffogata.com/asp-net-5-configuration-using-the-built-in-providers/) blog post.
 
 Tested with:
 
